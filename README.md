@@ -6,8 +6,8 @@ Blog Website:https://cms-blog99.000webhostapp.com/blog.php?page=1
 
 Admin Panel:https://cms-blog99.000webhostapp.com/login.php
 
-Username:nayeem1872
+Username:nayeem1872 :
 Password:abcd
 
-Username:Potter
+Username:Potter :
 Password:abcd
